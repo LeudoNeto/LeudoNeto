@@ -1,6 +1,12 @@
 ## Olá, eu sou o Leudo Neto 👋
 ### Programador e estudante de Engenharia da Computação!
 
+<div>
+  <img src="https://img.shields.io/github/followers/LeudoNeto.svg?style=social&label=Follow&maxAge=2592000" target="_blank">
+  <img src="https://img.shields.io/github/stars/LeudoNeto.svg" target="_blank">
+  <img src="https://img.shields.io/github/forks/LeudoNeto/nezuko-s2.svg" target="_blank">
+</div>
+
 <div align="center">
   <a href="https://github.com/LeudoNeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeudoNeto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
