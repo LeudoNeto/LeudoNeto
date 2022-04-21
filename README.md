@@ -1,15 +1,6 @@
 ## Olá, eu sou o Leudo Neto 👋
 ### Programador e estudante de Engenharia da Computação!
 
-<div>
-  <a href="https://www.youtube.com/channel/UCZ_cHICVY_dowQ2XvZWpmkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
-  <a href="https://www.instagram.com/leudoneto09/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
- 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=black" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a> 
-  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 <div align="center">
   <a href="https://github.com/LeudoNeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeudoNeto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -33,6 +24,15 @@
   <img align="right" alt="Leudo-pic" height="160" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/Fol9yV-2HvOuetXeFuQoD_PSMCdKr6iV47Bu7zlPTJo/%3Fsize%3D512/https/cdn.discordapp.com/avatars/414421671638990848/b0c55f2e796f9f656a702ecacd1e734f.png?width=427&height=427">
 </div>
   
+<div>
+  <a href="https://www.youtube.com/channel/UCZ_cHICVY_dowQ2XvZWpmkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
+  <a href="https://www.instagram.com/leudoneto09/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+ 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=black" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a> 
+  <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 # Maior projeto:
 
 <div>
