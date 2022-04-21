@@ -51,7 +51,7 @@
 
 <div> 
 
-  ![Snake animation](https://github.com/LeudoNeto/LeudoNeto/blob/2c456e46e480ec8aa8a3a64099009e56644e06fa/.github/workflows/main.yml)
+  ![Snake animation](https://github.com/LeudoNeto/LeudoNeto/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
