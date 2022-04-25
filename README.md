@@ -27,7 +27,7 @@
 
 
   
-  <img align="right" alt="Leudo-pic" height="160" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/Fol9yV-2HvOuetXeFuQoD_PSMCdKr6iV47Bu7zlPTJo/%3Fsize%3D512/https/cdn.discordapp.com/avatars/414421671638990848/b0c55f2e796f9f656a702ecacd1e734f.png?width=427&height=427">
+  <img align="right" alt="Leudo-pic" height="160" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/cRZxa9hYP0WyEV_S3L7tSU5DLbt81KrL97_WHQeqeHk/%3Fsize%3D512/https/cdn.discordapp.com/avatars/414421671638990848/9c672db7119a1afdaec9d20dc7a707d4.png?width=473&height=473">
 </div>
   
 <div>
