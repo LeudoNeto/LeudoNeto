@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/LeudoNeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeudoNeto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeudoNeto&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeudoNeto&exclude_repo=dangerous-co2-conc-predict&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline_block"><br>
