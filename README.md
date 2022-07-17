@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/LeudoNeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeudoNeto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeudoNeto&exclude_repo=dangerous-co2-conc-predict,nezuko-s2-english,my-codewars-solutions&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeudoNeto&exclude_repo=dangerous-co2-conc-predict,nezuko-s2-english,my-codewars-solutions,wordpress-test2&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,7 +29,7 @@
 
 
   
-  <img align="right" alt="Leudo-pic" height="160" style="border-radius:50px;" src="https://images-ext-2.discordapp.net/external/cRZxa9hYP0WyEV_S3L7tSU5DLbt81KrL97_WHQeqeHk/%3Fsize%3D512/https/cdn.discordapp.com/avatars/414421671638990848/9c672db7119a1afdaec9d20dc7a707d4.png?width=473&height=473">
+  <img id="discord-pic" align="right" alt="Leudo-pic" height="160" style="border-radius:50px;" src="img\discordpfp.jpg">
 </div>
   
 <div>
