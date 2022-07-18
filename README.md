@@ -29,7 +29,7 @@
 
 
   
-  <img id="discord-pic" align="right" alt="Leudo-pic" height="160" style="border-radius:50px;" src="img\discordpfp.jpg">
+  <img id="discord-pic" align="right" alt="Leudo-pic" height="160" style="border-radius:50px;" src="img/discordpfp.jpg">
 </div>
   
 <div>
