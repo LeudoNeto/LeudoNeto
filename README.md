@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/LeudoNeto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeudoNeto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeudoNeto&exclude_repo=dangerous-co2-conc-predict,nezuko-s2-english,my-codewars-solutions,wordpress-test2&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeudoNeto&hide=jupyter%20notebook&exclude_repo=nezuko-s2-english,my-codewars-solutions,wordpress-test2&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -38,20 +38,21 @@
  	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=black" target="_blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a> 
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <a href="https://www.linkedin.com/in/leudo-neto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><br>
 
-# Maior projeto:
+# Maiores projetos:
 
 <div>
-  <a href="https://github.com/LeudoNeto/nezuko-s2">
-  <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=LeudoNeto&repo=nezuko-s2&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <h2>Back-end:</h2>
+  <a href="https://github.com/LeudoNeto/sistema-de-candidaturas">
+  <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=LeudoNeto&repo=sistema-de-candidaturas&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
-  <br>
-  <a href="https://github.com/LeudoNeto/nezuko-s2-english">
-  <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=LeudoNeto&repo=nezuko-s2-english&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+  <h2>Front-end:</h2>
+  <a href="https://github.com/LeudoNeto/nature-spa">
+  <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=LeudoNeto&repo=nature-spa&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
-</div>
+</div><br>
 
 # Último projeto:
 
@@ -59,7 +60,7 @@
   <a href="https://github.com/LeudoNeto/easy-ai-chatbot-for-discord">
   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=LeudoNeto&repo=easy-ai-chatbot-for-discord&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
-</div>
+</div><br>
 
 # Primeiro projeto:
 
@@ -68,7 +69,6 @@
   <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=LeudoNeto&repo=python-chess-on-terminal&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
   </a>
 </div>
-
 
 <div> 
 
