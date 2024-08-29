@@ -1,5 +1,5 @@
-## Olá, eu sou o Leudo Neto 👋
-### Programador e estudante de Engenharia da Computação!
+## Hello, I am Leudo Neto 👋
+### Software Developer and Computer Engineering student!
 
 <div>
   <img src="https://img.shields.io/github/followers/LeudoNeto.svg?style=social&label=Follow&maxAge=2592000" target="_blank">
@@ -12,63 +12,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeudoNeto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeudoNeto&hide=jupyter%20notebook&exclude_repo=nezuko-s2-english,my-codewars-solutions,wordpress-test2&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leudo-Python" height="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Leudo-PHP" height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Leudo-Csharp" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Leudo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leudo-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leudo-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leudo-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Leudo-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img height="30" width="200" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">
-  <img align="center" alt="Leudo-vsc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Leudo-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Leudo-github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
-
-  
-  <img id="discord-pic" align="right" alt="Leudo-pic" height="160" style="border-radius:50px;" src="img/discordpfp.jpg">
-</div>
   
 <div>
-  <a href="https://www.youtube.com/channel/UCZ_cHICVY_dowQ2XvZWpmkQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" target="_blank"></a>
-  <a href="https://www.instagram.com/leudoneto09/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
- 	<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=black" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a> 
   <a href = "mailto:"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leudo-neto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
-
-# Maiores projetos:
-
-<div>
-  <h2>Back-end:</h2>
-  <a href="https://github.com/LeudoNeto/sistema-de-candidaturas">
-  <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=LeudoNeto&repo=sistema-de-candidaturas&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-  <h2>Front-end:</h2>
-  <a href="https://github.com/LeudoNeto/nature-spa">
-  <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=LeudoNeto&repo=nature-spa&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-</div><br>
-
-# Último projeto:
-
-<div>
-  <a href="https://github.com/LeudoNeto/easy-ai-chatbot-for-discord">
-  <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=LeudoNeto&repo=easy-ai-chatbot-for-discord&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-</div><br>
-
-# Primeiro projeto:
-
-<div>
-  <a href="https://github.com/LeudoNeto/python-chess-on-terminal">
-  <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=LeudoNeto&repo=python-chess-on-terminal&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
-  </a>
-</div>
 
 <div> 
 
